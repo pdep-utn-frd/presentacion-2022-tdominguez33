@@ -13,3 +13,8 @@ Mis intereses son:
 Y acá hay una foto de unos cachorritos para cerrar así no tengo que subir una foto mia.
 
 <img src="https://i.imgur.com/LJf4LzX.jpeg" alt="Perritos" style="height: 400px; width:400px;"/>
+
+Por demanda popular de mi amigo Octavio, agrego una foto de mi cara (Fecha: Enero 2020)
+
+<img src="https://i.imgur.com/CtRrcQm.jpeg" alt="Mi Cara" style="height: 200px; width:200px;"/>
+
